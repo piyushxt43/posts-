@@ -24,6 +24,9 @@ node_modules/
 .env.local
 
 # Local-only reference assets (kept on disk, not pushed to GitHub)
-references/
+references/draftly/*.png
+references/draftly/BRAND_REFERENCE.md
+references/draftly/README.md
 Draftly_Carousels/references/
 fourth June/reference.md
+fourth June/references/
