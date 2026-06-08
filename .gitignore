@@ -22,3 +22,8 @@ node_modules/
 
 # Secrets
 .env.local
+
+# Local-only reference assets (kept on disk, not pushed to GitHub)
+references/
+Draftly_Carousels/references/
+fourth June/reference.md

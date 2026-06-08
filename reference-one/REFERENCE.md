@@ -2,6 +2,8 @@
 
 Public documentation for this repo. **No API keys, no local paths, no private assets.**
 
+> **Note:** Full local reference assets (`references/draftly/`, screenshots, `fourth June/reference.md`) stay on your machine but are **gitignored** — not pushed to GitHub.
+
 Start here if you cloned [posts-](https://github.com/piyushxt43/posts-) and want to understand how everything fits together.
 
 ---
