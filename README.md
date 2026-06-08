@@ -1,75 +1,45 @@
-# All Carousels Automatically
+# Posts — Carousel Pipeline
 
-Automated Instagram carousel pipeline: **content definitions**, **AI image generation**, and **PDF lead magnets**.
+Automated Instagram carousel generator: **prompt definitions → AI images → PDF lead magnets**.
+
+> **Start here:** [reference-one/REFERENCE.md](reference-one/REFERENCE.md) — full guide, styles, API setup. No secrets in that folder.
 
 ## Quick start
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
+python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+cp .env.example .env   # add APIYI_API_KEY
 
-cp .env.example .env
-# Edit .env and set APIYI_API_KEY
-
-# Example: generate 6th June carousels
-cd "6th June"
-python3 generate.py
-
-# Build PDFs only
-python3 build_pdfs.py
+cd Draftly_3D_Free && python3 generate.py
 ```
 
-## Environment
+## What you get after clone
 
-| Variable | Required | Purpose |
-|----------|----------|---------|
-| `APIYI_API_KEY` | Yes | Image API (api.apiyi.com, model gpt-image-2-all) |
+| Included | Not included (gitignored) |
+|----------|---------------------------|
+| `content.py` prompts | Generated `*.png` |
+| `generate.py` scripts | Generated `*.pdf` |
+| `caption.txt` templates | API keys |
+| `reference-one/` docs | Local machine paths |
 
-**Never commit real API keys.** This repo ships without generated images or PDFs.
+## Main folders
 
-## Project layout
+| Folder | What |
+|--------|------|
+| `reference-one/` | **Public docs** — styles, Draftly brand, pipeline |
+| `Draftly_3D_Free/` | 3-slide 4:5 free 3D website carousel |
+| `Draftly_Growth/` | 5 growth carousels × 8 slides |
+| `Draftly_Carousels/` | 15 product-vertical carousels |
+| `6th June/` | Claude operator carousels |
+| `7th June/` | Gemini Pro FREE carousels |
+| `5th June/` | Full AI business batch |
+| `AI_Business_Carousels/` | @piyush.glitch AI posts |
 
-| Folder | Description |
-|--------|-------------|
-| `AI_Business_Carousels/` | Piyush / @piyush.glitch AI business carousels |
-| `Draftly_Carousels/` | Draftly product-vertical carousels + PDF guides |
-| `Draftly_Growth/` | Draftly growth/marketing carousels (5 x 8 slides) |
-| `6th June/` | Claude operator carousels + dense PDF guides |
-| `5th June/` | Full carousel batch + PDF pages |
-| `third June/`, `fourth June/` | Earlier batches |
-| `Claude2ndJune/` | Claude carousel batch |
-| `50_Series_Carousels/` | 50-series content |
-| `references/draftly/` | Draftly brand memory (markdown) |
-| `fifth June/` | Cover previews + maker.md prompts |
+Date-named folders are batch snapshots — same `content.py` + `generate.py` + `build_pdfs.py` pattern everywhere.
 
-|| `Draftly_3D_Free/` | Draftly 3-slide 4:5 free 3D website carousel |
-|| `7th June/` | Gemini Pro FREE carousels + Jio activation PDF guide |
-Root scripts: `generate_carousels.py`, `build_pdfs.py`, batch generators.
+## API
 
-## Regenerate outputs
+Set `APIYI_API_KEY` in `.env`. See [reference-one/api-setup.md](reference-one/api-setup.md).
 
-Generated `*.png` and `*.pdf` files are **gitignored**. After clone:
-
-1. Set `APIYI_API_KEY`
-2. Run the matching `generate.py` in each batch folder
-3. Run `build_pdfs.py` for PDF lead magnets
-
-## Draftly screenshots (optional)
-
-```bash
-# Start Draftly dev server locally, then:
-node capture_draftly_screenshots.mjs
-```
-
----
-
-# Carousel projects (two separate pipelines)
-
-| Folder | Company | Script | Style |
-|--------|---------|--------|-------|
-| `AI_Business_Carousels/` | **Piyush** (`@piyush.glitch`) | `generate_carousels.py` | Cream grid / coral editorial, Claude/GPT/Gemini AI business topics |
-| `Draftly_Carousels/` | **Draftly** (`draftly.space`) | `Draftly_Carousels/generate.py` + `build_pdfs.py` | Cream/coral editorial (Mobile Editing Club style), 15 product carousels, deep prompts, PDF guides |
-
-When you ask for **AI business carousels**, use the Piyush pipeline.  
-When you ask for **Draftly carousels**, use the Draftly pipeline only.
+**Never commit real keys.**

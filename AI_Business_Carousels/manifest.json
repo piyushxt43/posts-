@@ -1,5 +1,5 @@
 {
-  "root": "/Users/piyush/Downloads/All carousels automatically/AI_Business_Carousels",
+  "root": "AI_Business_Carousels",
   "model": "gpt-image-2-all",
   "total_carousels": 10,
   "slides_per_carousel": 8,
