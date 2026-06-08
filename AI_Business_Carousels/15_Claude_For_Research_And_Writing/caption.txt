@@ -1,0 +1,18 @@
+Comment AI to get 15 Claude research + writing prompts + the full citation discipline PDF.
+
+Amateur Claude research = vague prompts and hallucinated stats. Pro research = source packets, claim tables, and UNKNOWN over guessing.
+
+What you get in this post (8 slides):
+Slide 1: Claude Writes And Researches — exec briefs from raw notes and PDFs.
+Slide 2: Research Stack — gather, extract, cross-check, synthesize.
+Slide 3: Long Context Edge — reports and transcripts in one thread.
+Slide 4: Writing Modes — memo vs blog vs support macro in separate Projects.
+Slide 5: Citation Hygiene — claim/source pairs, weak evidence flagged.
+Slide 6: Content Ops Loop — research once, repurpose to email, LinkedIn, deck.
+Slide 7: Quality Gate — human verifies numbers and names before send.
+Slide 8: Comment AI — get the prompt pack.
+
+Bonus PDF when you comment AI:
+Master research prompt, exec memo instructions, investor update workflow, two-pass longform outline, pre-send verification checklist, hidden tricks.
+
+Follow @piyush.glitch for research workflows that audit.

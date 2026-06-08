@@ -1,0 +1,18 @@
+Comment AI to get the Claude model routing cheat sheet PDF (Sonnet vs Opus vs Haiku, escalation rules, cost-per-success math).
+
+Using Opus for everything burns budget. Using Sonnet for everything ships subtle errors on board memos and contracts.
+
+What you get in this post (8 slides):
+Slide 1: Route Claude Like A Pro — Sonnet for volume, Opus for judgment.
+Slide 2: Claude Sonnet — drafts, summaries, rewrites, bulk ops.
+Slide 3: Claude Opus — strategy, architecture, negotiation, exec writing.
+Slide 4: Cost vs Quality — COGS down vs revenue protected.
+Slide 5: Team Routing Table — which task gets which model.
+Slide 6: When To Escalate — 3 failed Sonnet rounds → Opus thread.
+Slide 7: Measure It — edit rate, time-to-ship, rework by model.
+Slide 8: Comment AI — get the cheat sheet.
+
+Bonus PDF when you comment AI:
+Printable routing matrix, subagent model config, Project TRIGGER KEYWORDS block, API router sketch, quarterly re-benchmark checklist.
+
+Follow @piyush.glitch for cost-aware Claude ops.

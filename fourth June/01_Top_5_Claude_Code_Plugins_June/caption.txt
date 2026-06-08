@@ -1,0 +1,14 @@
+Comment PLUGINS and I'll send the full 12-page install guide  -  every repo, command, and config snippet from this carousel.
+
+Most devs run Claude Code vanilla and bleed tokens on UI slop, stuck tasks, and zero memory.
+
+Swipe for 5 plugins that actually ship:
+1. Impeccable  -  kills 24 AI UI tells before merge
+2. Caveman  -  cuts ~75% token noise, keeps accuracy
+3. Codex  -  GPT-5 second opinion when Claude stalls
+4. notebooklm-py  -  NotebookLM from terminal
+5. Obsidian vault  -  local markdown memory (no plugin, just a folder)
+
+Save this. Follow @piyush.glitch for operator-level Claude Code stacks.
+
+#ClaudeCode #ClaudeAI #DevTools #AIagents #BuildInPublic

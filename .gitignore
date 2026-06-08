@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Generated outputs (re-create with generate scripts)
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.pdf
+*.mp4
+*.log
+
+# Secrets
+.env.local

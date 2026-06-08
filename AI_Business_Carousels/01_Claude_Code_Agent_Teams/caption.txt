@@ -1,0 +1,25 @@
+Comment AI to get the full Claude Code agent-team playbook and the complete list of workflows that can help your business ship faster with less chaos.
+
+Most teams still use Claude Code like a chat window. That is the slow path. This carousel breaks down how operators are turning it into a real engineering org: one orchestrator plus specialised helpers that explore, build, test and review in parallel.
+
+What you get in this post (8 slides):
+Slide 1: Stop Using Claude Code Like Chat: why the moat is orchestration, not one long reply.
+Slide 2: Subagents: separate context windows so research noise never floods your main thread.
+Slide 3: MCP Connectors: live access to GitHub, Jira, Postgres, Figma and Slack through one standard layer.
+Slide 4: Hooks: deterministic guardrails that run every time (lint, secrets checks, test gates).
+Slide 5: Skills: reusable packaged instructions you teach once and reuse forever.
+Slide 6: Memory: project conventions that survive across sessions.
+Slide 7: Team Pattern: Explore reads, Builder edits, Tester runs, Reviewer critiques.
+Slide 8: Comment AI: how to claim the bonus guide.
+
+Bonus PDF (sent when you comment AI):
+A 3-page branded guide with the full stack explained: subagents, hooks, skills, MCP and memory. Includes a quick-start playbook, mistakes to avoid, key terms and the pro move most people miss (route read-heavy work to a cheap Explore subagent and reserve your strongest model for planning and review).
+
+Why this matters for business growth:
+You cut rework, protect context, enforce quality automatically and turn one developer into a small coordinated team without hiring.
+
+Trending right now on Claude Code and agent teams:
+Anthropic's subagent orchestration and agent teams are the hottest topic in dev Twitter and enterprise AI circles in 2026.
+Hooks, Skills and MCP are moving from power-user tricks to standard team setup: the same way CI/CD became non-negotiable.
+Legal and ops teams are adopting MCP connectors for contract review and audit workflows, not just engineering.
+The shift from "prompt in chat" to "programmable agent platform" is what separates teams that demo AI from teams that run on it.

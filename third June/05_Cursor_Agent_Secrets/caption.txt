@@ -1,0 +1,11 @@
+Comment CURSOR and I'll send the full Cursor operator PDF - rules, MCP, Composer agents, and the GitHub repos worth bookmarking.
+
+Cursor is not autocomplete. It is an agent runtime with .cursor/rules, MCP servers, background agents, and Composer multi-file edits - if you configure it like an operator instead of a chatbot.
+
+This carousel: .cursor/rules structure, .cursor/mcp.json setup, .cursorignore for secrets, Composer agent mode, background agents, and repos like awesome-cursorrules and cursor.directory.
+
+Swipe for copy-paste configs. Save if you ship code with AI daily.
+
+Follow @piyush.glitch for dev operator stacks.
+
+#CursorAI #AIcoding #MCP #DevTools #BuildInPublic

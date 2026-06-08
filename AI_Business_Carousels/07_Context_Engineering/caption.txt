@@ -1,0 +1,25 @@
+Comment AI to get the full context-engineering worksheet and the complete list of input patterns that can help your business get reliable AI output without hunting for magic prompts.
+
+Prompt tricks get you a demo. Context engineering gets you production-quality work. The model can only reason over what it sees: so the highest-leverage skill is shaping that input deliberately.
+
+What you get in this post (8 slides):
+Slide 1: Prompting Is Not Enough: the real advantage is what the model sees before it acts.
+Slide 2: Context Stack: goal, audience, sources, examples, constraints, tools, memory, format.
+Slide 3: Examples Beat Adjectives: two great outputs and one bad one teach taste faster.
+Slide 4: Constraints Create Quality: length, tone, forbidden claims and compliance boundaries.
+Slide 5: Tool Results Matter: fetch from CRM, docs, analytics: do not let the model guess.
+Slide 6: Memory Is A Product: brand voice, glossary, architecture and customer segments.
+Slide 7: Evaluation Loop: every bad output is a context bug to fix, not a model failure.
+Slide 8: Comment AI: get the bonus PDF.
+
+Bonus PDF (sent when you comment AI):
+Context Engineering: the real skill behind better AI work. Includes the context stack, constraints and tool results, memory and evaluation loops, playbook, mistakes, glossary and the pro move: keep a counter-example file for recurring tasks so the model learns the boundary it keeps crossing.
+
+Why this helps your business grow:
+Higher first-pass quality, fewer hallucinations, outputs that match your brand and systems that improve every time something goes wrong.
+
+Trending right now on context engineering:
+"Context engineering" is replacing "prompt engineering" as the phrase serious AI teams use in 2026.
+RAG plus examples plus constraints is the stack enterprises are standardising before they trust agents with customer-facing work.
+Counter-example libraries (what bad output looks like) are spreading from ML eval teams into everyday ops.
+Memory and project context files (CLAUDE.md, GEMINI.md, ChatGPT Projects) are the infrastructure layer everyone is building now.

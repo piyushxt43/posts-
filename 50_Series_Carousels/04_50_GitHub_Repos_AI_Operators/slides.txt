@@ -1,0 +1,104 @@
+Slide 1 - Cover Hook
+Headline: 50 GitHub repos AI operators hide from you
+Alt hook: These 50 repos replace $2K/month in AI tools
+Subtext: Built for Claude, MCP, agents, Cursor, and AI business automation.
+
+Slide 2 - Claude Foundations (5)
+1) anthropics/claude-code - Agentic coding in terminal and IDE.
+   Why operators use it: Fast execution loop + workflows + plugins.
+2) anthropics/anthropic-sdk-python - Official Python SDK for Claude API.
+   Why operators use it: Stable production API patterns and samples.
+3) anthropics/anthropic-sdk-typescript - Official TS/JS SDK for Claude API.
+   Why operators use it: App/backend integration with typed interfaces.
+4) anthropics/claude-code-action - GitHub Action for Claude Code tasks.
+   Why operators use it: CI and PR automation in existing pipelines.
+5) anthropics/claude-plugins - Official Claude Code plugin collection.
+   Why operators use it: Extend workflows without reinventing tooling.
+
+Slide 3 - MCP Core Stack (5)
+1) modelcontextprotocol/modelcontextprotocol - MCP spec and protocol docs.
+   Why operators use it: Ground truth for client/server interoperability.
+2) modelcontextprotocol/servers - Reference MCP server implementations.
+   Why operators use it: Reusable examples for real tool integrations.
+3) modelcontextprotocol/typescript-sdk - Official TypeScript MCP SDK.
+   Why operators use it: Build clients/servers quickly in JS ecosystems.
+4) modelcontextprotocol/python-sdk - Official Python MCP SDK.
+   Why operators use it: Build connector layer for Python stacks.
+5) modelcontextprotocol/inspector - Visual MCP testing/debugging UI.
+   Why operators use it: Validate tools before production rollout.
+
+Slide 4 - MCP Ecosystem Lists + Utilities (5)
+1) github/github-mcp-server - Official GitHub MCP server.
+   Why operators use it: Gives agents repo, issue, and PR actions.
+2) punkpeye/awesome-mcp-servers - Biggest curated MCP server list.
+   Why operators use it: Fast discovery of useful connectors.
+3) wong2/awesome-mcp-servers - Curated MCP servers + categories.
+   Why operators use it: Cross-check options and maintenance quality.
+4) open-webui/mcpo - MCP gateway/proxy for tools.
+   Why operators use it: Central routing and cleaner deployment.
+5) mcp-use/mcp-use - Use MCP servers in Python agents.
+   Why operators use it: Quick bridge from agent code to MCP tools.
+
+Slide 5 - Agent Frameworks (5)
+1) langchain-ai/langgraph - Stateful graph agent orchestration.
+   Why operators use it: Durable, controllable production agent flows.
+2) crewAIInc/crewAI - Role-based multi-agent framework.
+   Why operators use it: Fast way to ship team-style agents.
+3) microsoft/autogen - Mature multi-agent conversational framework.
+   Why operators use it: Huge ecosystem and enterprise familiarity.
+4) ag2ai/ag2 - AutoGen successor/community continuation.
+   Why operators use it: Modernized path for AutoGen-style systems.
+5) huggingface/smolagents - Lightweight code-first agent framework.
+   Why operators use it: Small footprint, quick experimentation.
+
+Slide 6 - Coding Agents + Cursor Layer (5)
+1) continue-revolution/continue - Open-source IDE coding agent.
+   Why operators use it: Team-control over prompts/models/context.
+2) Aider-AI/aider - Git-native terminal coding assistant.
+   Why operators use it: Reliable multi-file edits with clean git flow.
+3) block/goose - Extensible local-first AI agent.
+   Why operators use it: Connect automations and external tools fast.
+4) All-Hands-AI/OpenHands - Autonomous software engineering agent.
+   Why operators use it: End-to-end issue-to-PR execution capability.
+5) PatrickJS/awesome-cursorrules - Large Cursor rules collection.
+   Why operators use it: Faster setup of repeatable coding behavior.
+
+Slide 7 - Automation Orchestration (5)
+1) n8n-io/n8n - Visual workflow automation engine.
+   Why operators use it: Connect SaaS + AI steps with low friction.
+2) activepieces/activepieces - Open-source automation alternative.
+   Why operators use it: MIT-friendly automation with growing integrations.
+3) windmill-labs/windmill - Scripts to workflows and internal apps.
+   Why operators use it: Dev-friendly orchestration and quick UI ops.
+4) temporalio/temporal - Durable workflow execution platform.
+   Why operators use it: Mission-critical retries/state at scale.
+5) prefecthq/prefect - Python-native orchestration and scheduling.
+   Why operators use it: Data + ML + automation workflows in one layer.
+
+Slide 8 - Eval + Observability (5)
+1) langfuse/langfuse - LLM tracing and eval platform.
+   Why operators use it: Visibility into prompts, cost, and latency.
+2) Arize-ai/phoenix - Open-source LLM observability toolkit.
+   Why operators use it: Detect regressions and quality drift early.
+3) promptfoo/promptfoo - Prompt and model eval testing framework.
+   Why operators use it: CI-style tests before production changes.
+4) confident-ai/deepeval - Evaluation library for LLM apps.
+   Why operators use it: Automated quality metrics and guardrails.
+5) truera/trulens - Evaluation and feedback for LLM pipelines.
+   Why operators use it: Explainability and reliability checks.
+
+Slide 9 - Data + Retrieval Backbone (5)
+1) qdrant/qdrant - High-performance vector database.
+   Why operators use it: Fast semantic retrieval for AI apps.
+2) milvus-io/milvus - Scalable open-source vector database.
+   Why operators use it: Large-scale retrieval with distributed options.
+3) weaviate/weaviate - Vector DB with hybrid search.
+   Why operators use it: Combines semantic + keyword retrieval.
+4) run-llama/llama_index - Data framework for LLM retrieval.
+   Why operators use it: Build robust RAG pipelines quickly.
+5) deepset-ai/haystack - End-to-end search and RAG framework.
+   Why operators use it: Production-ready retrieval and pipelines.
+
+Slide 10 - CTA
+Headline: Comment AI for all 50 repos + setup notes
+Body: Get the full appendix: links, quick setup, operator use-cases, and starter stack map.

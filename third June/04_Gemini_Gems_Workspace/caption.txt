@@ -1,0 +1,11 @@
+Comment GEMINI and I'll send the Gems + Workspace PDF - system instructions, grounding, and API presets for business ops.
+
+Gemini Gems are Google's Custom GPT equivalent - but with native Google Workspace access most people never enable.
+
+This carousel: Gem creation in aistudio.google.com, Workspace extension setup, Gemini 2.0 Flash API preset, grounded search with Google, and the system instruction template for business operators.
+
+Swipe for copy-paste configs. Save if you live in Gmail, Drive, and Sheets.
+
+Follow @piyush.glitch for multi-model stacks.
+
+#GeminiAI #GoogleAI #AIforBusiness #Workspace #GeminiGems

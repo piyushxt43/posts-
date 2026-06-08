@@ -1,0 +1,11 @@
+Comment SALES and I'll send the pipeline build (the 7 agents + the scoring + follow-up cadence).
+
+Most pipelines run on vibes and forgotten follow-ups. Mine runs on agents.
+
+Lead triage, prospect research, outreach, proposals, objection prep, win-loss analysis and pipeline ops - each a Claude agent with one job, gated on human approval before anything sends.
+
+Swipe to see the workflow. Save this if your follow-up is leaking deals.
+
+Follow @piyush.glitch for sales systems that close.
+
+#ClaudeAI #Sales #AIagents #B2B #Pipeline

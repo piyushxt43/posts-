@@ -1,0 +1,9 @@
+Comment AI for the subagent playbook PDF - install paths, .claude/agents/ templates, and hidden built-ins.
+
+Everyone knows @codebase. Almost nobody uses Verification Agent, Fork subagents, or the VoltAgent catalog of 154 specialists.
+
+Swipe for 10 agents that isolate context and stop polluting your main thread.
+
+Follow @piyush.glitch
+
+#ClaudeCode #Subagents #AIagents #DevTools #PIYUSHGLITCH

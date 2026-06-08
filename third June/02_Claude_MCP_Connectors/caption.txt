@@ -1,0 +1,11 @@
+Comment MCP and I'll send the connector setup PDF - server configs, sync tools, and the read-first security pattern.
+
+MCP is how Claude talks to Postgres, GitHub, Slack, Notion, and your internal APIs without copy-paste. Most operators configure it once wrong and never fix it.
+
+This carousel: claude mcp add syntax, project .mcp.json, zweiklang/mcp-sync for Codex parity, CyPack/ai-tooling-sync for Claude+Cursor+OpenCode, and the 7 connectors that replace a 5-person ops stack.
+
+Swipe for exact JSON configs and the repos that keep MCP in sync across every tool you use.
+
+Save this. Follow @piyush.glitch for Claude ops infrastructure.
+
+#ClaudeAI #MCP #ModelContextProtocol #AIagents #DevTools

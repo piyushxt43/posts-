@@ -1,0 +1,25 @@
+Comment AI to get the full AI image production SOP and the complete list of brand workflows that can help your business ship campaign visuals without random results.
+
+Stop generating one-off images and hoping for luck. The brands winning with AI build a system: brand world, reference library, shot list, prompt grammar, QC pass and asset pipeline.
+
+What you get in this post (8 slides):
+Slide 1: Stop Generating Random Images: why systems beat better one-liner prompts.
+Slide 2: Brand World: color, lighting, camera, materials and what must never appear.
+Slide 3: Reference Library: approved faces, products, poses and negative examples.
+Slide 4: Shot List: hero, packshot, lifestyle, close-up, comparison, social crop, ad variant.
+Slide 5: Prompt Grammar: subject + product + scene + camera + lighting + constraints + ratio.
+Slide 6: QC Pass: text, hands, logos, product geometry, scale and legal clearance.
+Slide 7: Asset Pipeline: name files, store prompts, version variants, approve into library.
+Slide 8: Comment AI: claim the bonus guide.
+
+Bonus PDF (sent when you comment AI):
+AI Image Workflows for Brands: covers brand world design, shot lists, prompt grammar, QC checklist, asset pipeline, playbook, mistakes (including why "4K" in a prompt does not mean 4K output), glossary and the pro move on input compression for faster, more reliable generations.
+
+Why this helps your business grow:
+Faster campaign turns, on-brand visuals at scale, fewer reshoots and a reusable asset library that compounds every quarter.
+
+Trending right now on AI image workflows for brands:
+GPT-Image-2 and multimodal pipelines are letting brands produce full ad sets from one product photo: the carousel topic everyone in performance marketing is testing.
+Prompt grammar and ratio-first phrasing (not "make it 4K") is the nuance creators are sharing after thousands of generations.
+QC checklists for hands, logos and product shape are the difference between "AI slop" and assets clients actually run.
+Brand asset libraries with stored prompts are becoming standard ops: treat AI output like photography, not magic.

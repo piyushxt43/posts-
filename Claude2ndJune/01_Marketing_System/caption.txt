@@ -1,0 +1,11 @@
+Comment AGENT and I'll send the full build guide (the 10 agents + the prompts + how they hand off).
+
+Most people use Claude like a smarter Google. Operators wire it into a system.
+
+This is the 10-agent marketing system I run: market research, ICP, competitor analysis, content strategy, LinkedIn, email, ad copy, landing pages, analytics and marketing ops - each a Claude agent with one job, handing structured output to the next.
+
+Swipe to see the workflow. Save this so you can build it.
+
+Follow @piyush.glitch for operator-level AI systems.
+
+#ClaudeAI #AIagents #MarketingSystem #AIforBusiness #ContentStrategy

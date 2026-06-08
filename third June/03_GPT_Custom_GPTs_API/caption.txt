@@ -1,0 +1,11 @@
+Comment GPT and I'll send the Custom GPT + API preset PDF - instructions template, GPT-4o image API, and Actions setup.
+
+Custom GPTs are free distribution. The API is production. Most creators use neither correctly - they paste a system prompt and wonder why it drifts.
+
+This carousel: Custom GPT instruction architecture, OpenAI stored prompts preset, GPT-4o image generations API body, Assistants vs Chat Completions decision tree, and GPT Actions webhook pattern from the OpenAI cookbook.
+
+Swipe for copy-paste configs. Save before you build your next GPT.
+
+Follow @piyush.glitch for multi-model operator playbooks.
+
+#ChatGPT #OpenAI #CustomGPT #GPT4o #AIforBusiness

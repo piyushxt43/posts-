@@ -1,0 +1,31 @@
+Comment AI to get the full 50-skill PDF + setup snippets.
+
+Most teams using Claude still re-prompt from scratch every week.
+Operators don�t.
+
+They package repeatable workflows as Skills:
+- with clear SKILL.md structure
+- invocation controls
+- progressive disclosure
+- and GitHub review patterns
+
+What�s inside this carousel:
+1) 50 Claude Skills Nobody Set Up (But Should)
+2) PR Security Sentinel
+3) Incident Timeline Builder
+4) Migration Choreographer
+5) GTM Message Calibrator
+6) Agent Eval Gatekeeper
+7) Skill Drift Auditor
+8) Comment AI
+
+Bonus PDF (10+ pages) includes:
+- all 50 real non-generic skills
+- SKILL.md examples
+- invocation flags (`disable-model-invocation`, `user-invocable`, tool scoping)
+- progressive disclosure folder patterns
+- GitHub rollout / CODEOWNERS / golden-test patterns
+
+Comment AI and I�ll send the full pack.
+
+#ClaudeCode #AIAutomation #AIForBusiness #PromptEngineering #BuildInPublic

@@ -1,0 +1,31 @@
+50 real GitHub repos are quietly running AI operator stacks in 2026.
+
+Most people keep paying for disconnected tools.
+Operators build a layered stack from open repos:
+Claude + MCP + agents + automation + eval + retrieval.
+
+This carousel gives you 40.
+The PDF gives you all 50 with setup notes.
+
+What is inside the appendix:
+- 50 real repositories (direct GitHub links)
+- What each repo does in plain English
+- Why operators use it in production
+- Quick setup notes so you can test fast
+- Suggested stack combinations by use-case
+
+How to use this list:
+1) Pick one business workflow.
+2) Pick one repo per layer (agent, tools, orchestration, eval, data).
+3) Ship a small version this week.
+4) Measure intervention rate + cost per successful run.
+
+Do not install everything.
+Install what reduces manual work right now.
+
+If you are building with Claude, MCP, Cursor, or AI automations for your team, this is your shortcut list.
+
+Comment AI and I will send the full PDF:
+`50-github-repos-ai-operators.pdf`
+
+Follow @piyush.glitch for practical AI operator playbooks.

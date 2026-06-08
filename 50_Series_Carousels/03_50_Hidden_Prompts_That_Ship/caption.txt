@@ -1,0 +1,30 @@
+Comment AI and I’ll send the full 10+ page PDF: 50-hidden-prompts-that-ship.pdf
+
+Most teams still use AI with generic prompts and hope.
+Operators who actually ship use hidden prompt contracts:
+XML tags, output schemas, prefill variables, reasoning controls, and non-goals.
+
+What this carousel covers:
+Slide 1: 50 Hidden Prompts That Ship in 2026
+Slide 2: 5 XML tag prompts nobody uses
+Slide 3: 5 format contracts for reliable output
+Slide 4: 5 prefill patterns for speed + consistency
+Slide 5: 5 non-goals that stop prompt drift
+Slide 6: 5 inbox operator prompts
+Slide 7: 5 ops operator prompts
+Slide 8: 5 content operator prompts
+Slide 9: 5 reasoning control prompts
+Slide 10: Comment AI CTA
+
+Inside the PDF:
+- All 50 prompts in copy-paste format
+- Claude/GPT/Cursor-compatible prompt templates
+- Deployment checklist + troubleshooting notes
+- Prompt library rollout roadmap for teams
+
+If you run a startup, agency, or product team:
+this is how you stop babysitting AI outputs and start shipping repeatable work.
+
+Comment AI to get the full hidden prompt pack.
+
+#AIForBusiness #PromptEngineering #ClaudeAI #ChatGPT #CursorAI #AIAutomation #GrowthOps #StartupSystems #BuildInPublic

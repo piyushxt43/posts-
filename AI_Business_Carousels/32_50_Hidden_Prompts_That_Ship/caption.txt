@@ -1,0 +1,24 @@
+50 hidden prompts that actually ship.
+
+Most prompt lists are generic.
+These 50 are built for real workflows with XML tags, format contracts, prefill variables, and non-goals that stop drift.
+
+Inside this carousel:
+1) Hook: the hidden prompt stack operators use
+2) Ops prompt: executive dashboard synthesis
+3) Content prompt: scroll-stopping hooks
+4) Code prompt: refactor + rollback contract
+5) Sales prompt: account strategy brief
+6) Research prompt: evidence-graded memo
+7) Prompt contract skeleton that improves reliability
+8) CTA for full pack
+
+Comment AI and I will send the full PDF:
+`50-hidden-prompts-that-ship.pdf`
+
+It includes all 50 prompts categorized by:
+Ops, Content, Code, Sales, Research
+
+Copy-paste. Replace variables. Ship faster.
+
+#PromptEngineering #ClaudeAI #ChatGPT #AIAutomation #BusinessSystems

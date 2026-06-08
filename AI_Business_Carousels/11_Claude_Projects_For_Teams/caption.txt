@@ -1,0 +1,21 @@
+Comment AI to get the full Claude Projects setup checklist + 10-page bonus PDF (instructions template, knowledge file strategy, team permissions, hidden tricks).
+
+Your team pastes the same brand guide into Claude every Monday. That stops today.
+
+Claude Projects = persistent workspace: custom instructions + uploaded knowledge (~200K tokens) that load in every chat inside the project. Not a folder. A shared brain.
+
+What you get in this post (8 slides):
+Slide 1: Stop Re-Explaining Your Business — why Projects beat scattered chats.
+Slide 2: What A Project Is — PDFs, SOPs, brand guides, spreadsheets that persist.
+Slide 3: Custom Instructions — tone, format, banned phrases set once.
+Slide 4: Shared Team Access — marketing, ops, founders on one source of truth.
+Slide 5: Use Case Stack — campaign briefs, board prep, support macros, hiring scorecards.
+Slide 6: Project vs Plain Chat — chat forgets; Projects remember files and rules.
+Slide 7: Setup In 10 Minutes — create, upload 5 docs, invite team, pin starter prompts.
+Slide 8: Comment AI — claim the bonus guide.
+
+Bonus PDF when you comment AI:
+WHO/RULES/FORMAT/ESCALATE instruction template, knowledge architecture, golden test prompts, GitHub repos for team setup, 90-day mastery path, FAQs and troubleshooting.
+
+Save this. Share with whoever owns Claude at your company.
+Follow @piyush.glitch for operator-level Claude breakdowns.

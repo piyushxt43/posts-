@@ -1,0 +1,18 @@
+Comment AI to get the Claude Opus 4.7 → 4.8 migration checklist + full upgrade PDF.
+
+Anthropic shipped Opus 4.8 May 28, 2026. Same price. Better agents. Cleaner tool calls. Here is what actually changed.
+
+What you get in this post (8 slides):
+Slide 1: Claude 4.7 Was Great. 4.8 Is The Default Now.
+Slide 2: What Actually Changed — benchmark gains (coding, knowledge work, financial analysis).
+Slide 3: New: Effort Control — high, extra, max on claude.ai.
+Slide 4: New: Fast Mode — 2.5x API speed (research preview).
+Slide 5: New: Dynamic Workflows — Claude Code large autonomous tasks.
+Slide 6: Adaptive Thinking — reasons only when needed, saves tokens.
+Slide 7: Upgrade Checklist — claude-opus-4-8, cache min 1024 tokens, eval first.
+Slide 8: Comment AI — claim the migration PDF.
+
+Bonus PDF when you comment AI:
+Production cutover checklist, fast mode API snippet, effort policy template, shadow test commands, troubleshooting, hidden cache win on 4.8.
+
+Follow @piyush.glitch for Claude updates that matter to operators.

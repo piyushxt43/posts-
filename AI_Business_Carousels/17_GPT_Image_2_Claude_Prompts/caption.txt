@@ -1,0 +1,18 @@
+Comment AI to get 20 Claude prompts for GPT Image 2 campaigns + the full two-tool pipeline PDF.
+
+GPT Image 2 makes pixels. Claude makes prompts that win. Most brands fail because they prompt inside the generator.
+
+What you get in this post (8 slides):
+Slide 1: GPT Image 2 Makes Pixels. Claude Makes Prompts That Win.
+Slide 2: The Two-Tool Stack — Claude briefs, image API executes.
+Slide 3: Brand Prompt Grammar — SUBJECT, ENV, LIGHT, CAMERA, NEVER list.
+Slide 4: Reference Pack Workflow — visual DNA from 5 approved refs.
+Slide 5: Iteration Loop — v2 from failures, not reroll from scratch.
+Slide 6: Campaign Shot List — 8 slides planned before one pixel generates.
+Slide 7: QC In Claude — hands, logo, text, color drift pass/fail.
+Slide 8: Comment AI — get the prompt pack.
+
+Bonus PDF when you comment AI:
+Visual DNA extraction prompt, sidecar JSON template, QC checklist, shot list prompt, brand-world.md starter, hidden tricks.
+
+Follow @piyush.glitch for brand AI ops.

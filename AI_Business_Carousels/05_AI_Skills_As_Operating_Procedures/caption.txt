@@ -1,0 +1,28 @@
+Comment AI to get the full Skill template pack and the complete list of reusable workflows that can help your business stop re-explaining the same instructions every week.
+
+If you re-type the same prompt three times, you do not have a prompting problem: you have a missing operating procedure. Skills package repeatable jobs so the whole team gets the same expert output on demand.
+
+What you get in this post (8 slides):
+Slide 1: Stop Re-Explaining Work: from ad hoc prompts to reusable SOPs.
+Slide 2: What A Skill Contains: purpose, trigger, inputs, steps, constraints and output format.
+Slide 3: Good Skill Example: PR review with risks first, tests checked, security flagged.
+Slide 4: Bad Skill Example: "be helpful and make it better": a vibe, not a workflow.
+Slide 5: Use Across Teams: marketing briefs, sales research, finance audits, launch plans.
+Slide 6: Pair With Hooks: Skills encode judgement; hooks enforce guarantees.
+Slide 7: Version Your Skills: improve, test, review and changelog like product assets.
+Slide 8: Comment AI: get the bonus guide.
+
+Bonus PDF (sent when you comment AI):
+AI Skills as Operating Procedures: includes what a real Skill contains, good vs bad side-by-side, pairing Skills with hooks, quick-start playbook, mistakes, glossary and the pro move: every bad output becomes a counter-example in the Skill so quality compounds over time.
+
+Interim takeaway:
+Write Skills like SOPs, not wishes. Add gold examples, constraints and a verification step at the end.
+
+Why this helps your business grow:
+Consistent quality across people and sessions, faster onboarding, less senior time spent re-explaining and workflows that improve every time something fails.
+
+Trending right now on AI Skills:
+Skills (SKILL.md packs in Claude Code, Codex and Cursor) are the fastest-growing pattern for turning AI from chat into repeatable ops.
+Teams are versioning Skills in git the same way they version code: with review and changelogs.
+Pairing Skills with hooks is becoming the standard "judgement plus enforcement" stack for agent platforms.
+Every department from marketing to finance is packaging its best prompts into Skills instead of sharing screenshot threads.

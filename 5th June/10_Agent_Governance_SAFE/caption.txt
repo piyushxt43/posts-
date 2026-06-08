@@ -1,0 +1,7 @@
+Human-in-the-loop before agents send email, payments, or posts.
+
+[REVIEW] protocol, read-first MCP, blocked tools, audit logs - the trust layer SMBs need.
+
+Comment SAFE for governance checklist + 1-page team policy PDF.
+
+#AIGovernance #Compliance #SMB #PIYUSHGLITCH

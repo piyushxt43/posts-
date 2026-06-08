@@ -1,0 +1,18 @@
+Comment AI to get 20 Claude Artifact prompts for business + the full deliverables playbook PDF.
+
+Claude can ship more than paragraphs. Artifacts = live docs, calculators, charts and mini-apps in a side panel you edit and export.
+
+What you get in this post (8 slides):
+Slide 1: Claude Can Ship Artifacts — deliverables beside chat, not buried in threads.
+Slide 2: Live Documents — policies, proposals, SOPs in an editable panel.
+Slide 3: Mini Apps — ROI calculators and pricing tables without a dev sprint.
+Slide 4: Data Visuals — CSV to chart + narrative in one artifact.
+Slide 5: Iterate Fast — v2, v3 updates in place, no duplicate mess.
+Slide 6: Share With Stakeholders — export PDF, no deploy needed.
+Slide 7: Business Use Cases — board decks, landing pages, battlecards.
+Slide 8: Comment AI — get the prompt pack.
+
+Bonus PDF when you comment AI:
+Artifact-only mode prompts, brand-locked CSS workflow, mutual action plan template, QC before client send, iteration protocol, hidden tricks.
+
+Follow @piyush.glitch for Claude ops that actually ship.

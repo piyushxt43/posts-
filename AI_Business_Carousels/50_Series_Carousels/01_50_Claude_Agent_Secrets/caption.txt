@@ -1,0 +1,19 @@
+I tested 50 Claude agent tricks. These 12 actually ship work.
+
+Comment AI and I’ll send you the full 10+ page PDF: 50-claude-agent-secrets.pdf
+
+Most Claude advice is prompt fluff. Real operators ship with systems:
+- Subagents for scoped delegation (instead of one bloated thread)
+- Hooks that block risky commands before they run
+- MCP connectors wired read-first with clean tool schemas
+- SKILL.md playbooks that make quality repeatable
+- /compact focus patterns that save context without losing constraints
+- Effort + model routing based on risk, not hype
+
+This carousel gives 50 practical secrets (5 per slide x 10 slides), including hidden workflows and GitHub references you can implement this week.
+
+If you run an agency, startup, product, or dev team and want fewer AI mistakes + faster shipping, this is your operating manual.
+
+Comment AI and I’ll DM the full pack.
+
+#ClaudeCode #AIAgents #MCP #DevTools #Automation

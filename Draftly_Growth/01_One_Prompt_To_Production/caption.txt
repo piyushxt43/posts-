@@ -1,0 +1,13 @@
+Your hero should not cost $5,000.
+
+Draftly: one prompt -> AI still -> 8s video -> 400+ frames -> production HTML.
+
+No WebGL. No Three.js. You own the ZIP.
+
+Swipe for the full pipeline + copy-paste DeFi staking prompts.
+
+Comment BUILD for the prompt PDF.
+
+draftly.space
+
+#Draftly #WebDesign #AIWebsite #3DWebsite #DeFi #StartupTools

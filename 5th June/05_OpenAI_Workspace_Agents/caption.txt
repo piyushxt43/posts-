@@ -1,0 +1,7 @@
+Workspace Agents: shared, scheduled, cloud-run - evolution of Custom GPTs for teams.
+
+When your output goes to clients on a cron, you need connectors + HITL - not a solo GPT.
+
+Comment AGENTS for migration guide PDF.
+
+#OpenAI #ChatGPTBusiness #AIAgents #PIYUSHGLITCH

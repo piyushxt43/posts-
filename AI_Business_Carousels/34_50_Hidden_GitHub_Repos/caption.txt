@@ -1,0 +1,30 @@
+50 hidden GitHub repos are quietly powering AI business ops in 2026.
+
+Most teams know 5 tools.
+Operators running real automations know the deeper stack:
+MCP connectors, Claude-style workflows, eval gates, schedulers, and observability.
+
+This carousel breaks down the exact repo categories and the production order:
+1) Connector layer (MCP + context)
+2) Agent runtime
+3) Eval + safety gate
+4) Workflow orchestration
+5) Data + retrieval + BI backbone
+
+Inside the bonus PDF you get:
+- 50 REAL repositories with direct github.com URLs
+- What each repo does in one line
+- Setup one-liner so you can test fast
+- Why serious operators use it in production
+- A 7-day stack assembly plan
+
+If you are building with Claude, GPT, Gemini, Cursor, or your own internal agent stack, this is the shortlist to stop tool tourism and start shipping workflows that actually run.
+
+The point is not "install 50 repos."
+The point is: pick one recurring workflow and choose one repo per layer.
+Then measure intervention rate and cost per successful run.
+
+Comment AI and I will send the full 10+ page PDF:
+`50-hidden-github-repos.pdf`
+
+Follow @piyush.glitch for practical AI business operator playbooks.

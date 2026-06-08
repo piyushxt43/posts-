@@ -1,0 +1,25 @@
+Comment AI to get the full Gemini CLI workflow map and the complete list of terminal automations that can help your business move faster without adding headcount.
+
+Gemini CLI is free to start and open-source: but most people never get past "it writes code." The real value is a 1M-token context window, Google Search grounding, multimodal input and MCP extensions living inside your terminal.
+
+What you get in this post (8 slides):
+Slide 1: Gemini CLI Is Not Just For Code: files, search, shell, huge context and MCP in one place.
+Slide 2: 1M Context Window: whole repos, long contracts and dense specs in one pass.
+Slide 3: Search Grounding: fresh facts with citations instead of stale model guesses.
+Slide 4: Multimodal Starts: PDFs, sketches and images become plans, UI drafts and task lists.
+Slide 5: MCP Extensions: databases, docs, media generation (Imagen, Veo) and internal APIs.
+Slide 6: Headless Mode: run Gemini inside scripts and cron jobs for repeatable ops.
+Slide 7: Checkpointing: save and resume long sessions so work does not vanish.
+Slide 8: Comment AI: get the bonus guide.
+
+Bonus PDF (sent when you comment AI):
+The terminal agent guide most teams underuse: with sections on context advantage, grounding plus multimodal workflows, headless automation, quick-start playbook, mistakes, key terms and the pro move: reconcile your internal doc with live web search for answers that are both on-brand and current.
+
+Why this helps your business grow:
+Faster grounded research, less copy-paste between tools, automated digests and multimodal prototyping without a full creative team.
+
+Trending right now on Gemini CLI:
+Google's open-source Gemini CLI is exploding in the developer community as the free entry point to agentic terminal work.
+The 1M context window plus Search grounding combo is becoming the default stack for document-heavy roles (legal, ops, strategy).
+MCP media servers (Imagen, Veo, Lyria) are turning the CLI into a creative production line from a single prompt.
+Headless mode and GEMINI.md project context are the next wave: scheduled AI ops without a browser open.

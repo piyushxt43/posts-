@@ -1,0 +1,7 @@
+Cloud Agents = isolated VMs, browser tests, merge-ready PRs while you sleep.
+
+Local Composer for pairing. Cloud for shipping. This is the split most devs miss.
+
+Comment CLOUD for environment.json + definition-of-done PDF.
+
+#Cursor #CloudAgents #DevTools #PIYUSHGLITCH

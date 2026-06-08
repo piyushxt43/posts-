@@ -1,0 +1,36 @@
+50 AI agents that ship > 500 agent demos that never leave chat.
+
+This is what business owners actually use in 2026 across ChatGPT Agent mode, Claude agents, and Cursor cloud agents:
+- narrow scope
+- clear output contract
+- eval gate before release
+- approval flow before writes
+- weekly intervention-rate review
+
+Most teams fail because they build one giant "do everything" agent.
+Shipping teams run small workflow agents with owners and guardrails.
+
+What this 8-slide carousel covers:
+1) The hook: 50 shipping patterns, not hype
+2) Research pattern (signals + citations + digest)
+3) Ops pattern (exceptions + owner-tagged actions)
+4) Content pattern (one source -> multi-output)
+5) Code pattern (risk-first review + regression gate)
+6) Sales pattern (qualification + safe CRM flow)
+7) Ship gate (no eval pass, no release)
+8) CTA for full 50-pattern field guide
+
+The full PDF includes 50 categorized workflows:
+Research, Ops, Content, Code, Sales
+
+Every pattern includes:
+trigger, inputs, output schema, eval checks, approval flow, owner.
+
+Comment AI and I will send:
+50-ai-agents-that-ship.pdf
+
+If you're still asking "which model is best?" before defining scope + gates, you're optimizing the wrong layer.
+
+Build one reliable workflow first. Clone only after 4 weeks stable.
+
+#AIAgents #AgenticAI #BusinessAutomation #ChatGPT #Claude #Cursor #AIforBusiness #AIOperations #WorkflowAutomation #AIEvals #PromptEngineering #ContextEngineering #Founders #StartupOps #Productivity

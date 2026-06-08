@@ -1,0 +1,7 @@
+SKILL.md works in Claude Code, Cursor, Codex, and Gemini CLI - write once, run everywhere.
+
+You should not maintain four configs for one PR review workflow. Agent Skills is the open standard.
+
+Comment SKILLS for SKILL.md anatomy + 3 portable templates.
+
+#AgentSkills #Cursor #ClaudeCode #PIYUSHGLITCH

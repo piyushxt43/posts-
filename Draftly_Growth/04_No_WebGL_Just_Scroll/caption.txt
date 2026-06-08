@@ -1,0 +1,9 @@
+Everyone adds Three.js. Draftly extracts 400+ frames and scrubs on scroll.
+
+No WebGL. No performance tax. Works on every phone.
+
+Comment SCROLL for the engine deep dive PDF.
+
+draftly.space/3d-builder
+
+#Draftly #WebDev #ScrollAnimation #Frontend

@@ -1,0 +1,18 @@
+Comment AI to get our Claude MCP connector map + setup guide PDF (.mcp.json starter, GitHub repos, read-first rollout).
+
+Stop exporting CSVs into chat. Claude MCP = live hands into GitHub, Slack, Postgres, Notion and internal APIs.
+
+What you get in this post (8 slides):
+Slide 1: Claude Gets Live Hands — real systems, not stale paste.
+Slide 2: What MCP Is — Model Context Protocol, one standard for AI tools.
+Slide 3: Read Actions — PRs, CRM, Notion, tickets without writes.
+Slide 4: Write Actions — Slack posts, issues, emails with approval gates.
+Slide 5: Starter Connectors — GitHub, Drive, Slack, Postgres, Linear, Figma.
+Slide 6: Security Pattern — read-only first, log everything, human approves writes.
+Slide 7: Ops Workflow — morning digest agent example.
+Slide 8: Comment AI — claim the connector map.
+
+Bonus PDF when you comment AI:
+claude mcp add commands, project-scoped .mcp.json, Postgres read-only pattern, context budget rules (under 10 MCPs), PreToolUse hooks, troubleshooting.
+
+Follow @piyush.glitch for MCP without the hype.

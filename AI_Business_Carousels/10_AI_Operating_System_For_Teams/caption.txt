@@ -1,0 +1,25 @@
+Comment AI to get the full AI operating-system blueprint and the complete list of layers your business needs to turn random prompts into repeatable advantage.
+
+Random prompts do not scale. Systems do. The teams compounding real AI advantage in 2026 build an operating system with six layers: context, tools, workflows, control, evals and libraries.
+
+What you get in this post (8 slides):
+Slide 1: Build An AI Operating System: why structure beats sporadic prompting.
+Slide 2: Layer 1 Context: projects, memory, docs, examples, brand voice and data dictionary.
+Slide 3: Layer 2 Tools: MCP connectors, APIs, databases, files and code execution.
+Slide 4: Layer 3 Workflows: reusable Skills, agent templates, SOPs and prompt packs.
+Slide 5: Layer 4 Control: permissions, approvals, hooks, logs, identity and spend limits.
+Slide 6: Layer 5 Evals: workflow tests, regression gates and production monitoring.
+Slide 7: Layer 6 Libraries: approved outputs become reusable assets across the org.
+Slide 8: Comment AI: claim the bonus guide.
+
+Bonus PDF (sent when you comment AI):
+The AI Operating System for Modern Teams: all six layers explained, first-30-days playbook, mistakes to avoid, glossary and the pro move: start with one workflow and build all six layers around it thin but complete: then clone that template for everything else.
+
+Why this helps your business grow:
+Repeatable AI results, safer scaling, preserved institutional knowledge and compounding advantage instead of one-off wins.
+
+Trending right now on AI operating systems for teams:
+The "AI OS" framing (context + tools + workflows + control + evals + libraries) is the meta-narrative tying Claude Code, ChatGPT agents, MCP and Skills together in 2026.
+Teams that treated AI as a product surface (versioned, logged, evaluated) are pulling ahead of teams still doing ad hoc prompting.
+The six-layer blueprint is showing up in enterprise playbooks, startup ops threads and creator education: because it finally names what winners were doing quietly.
+Building thin-but-complete around one workflow first is the implementation pattern everyone is copying after expensive "connect everything" failures.

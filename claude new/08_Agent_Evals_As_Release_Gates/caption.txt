@@ -1,0 +1,28 @@
+Comment AI to get the full agent-eval checklist and the complete list of test patterns that can help your business ship AI automation without silent failures.
+
+If your agent can use tools or change data, vibes are not enough. Evals are the unit tests of agent behaviour: and the teams winning in 2026 treat them as release gates, not optional feedback.
+
+What you get in this post (8 slides):
+Slide 1: Your Agent Needs Tests: probabilistic systems wired into deterministic tools need gates.
+Slide 2: Not Trivia Benchmarks: your workflows, edge cases and CRM field mapping beat MMLU scores.
+Slide 3: Three Eval Types: task success, safety boundaries and operational behaviour.
+Slide 4: Golden Scenarios: real cases with known-good expected outputs.
+Slide 5: Tool-Use Tests: right tool, right inputs, right time.
+Slide 6: Regression Gate: if style improves but compliance breaks, it does not ship.
+Slide 7: Metrics That Matter: success rate, intervention rate, tool errors, cost per task.
+Slide 8: Comment AI: claim the bonus guide.
+
+Bonus PDF (sent when you comment AI):
+Agent Evals as Release Gates: covers why workflow-specific evals beat abstract benchmarks, three test categories, golden scenarios, regression gates, playbook, mistakes, glossary and the pro move: harvest production incidents into your eval set so tests evolve to cover failures that actually cost money.
+
+Interim takeaway:
+Build evals from real customer cases and internal policies. Run them before every prompt, model or tool change. Block releases on safety failures.
+
+Why this helps your business grow:
+Fewer costly bad writes, lower intervention rates, predictable agent cost and trust from leadership to scale automation.
+
+Trending right now on agent evals:
+Evals as release gates (not leaderboard scores) is the dominant production AI discourse in 2026.
+Prompt injection probes, PII leakage tests and forbidden-tool-use cases are standard in enterprise agent rollouts.
+Production incident harvesting into golden datasets is how mature teams keep agents from repeating the same expensive mistake.
+Observability plus evals is the minimum bar before any agent touches CRM, billing or customer data.

@@ -1,0 +1,18 @@
+50 Claude skills exist. Most teams set up zero.
+
+If you keep re-prompting the same workflows, this carousel is your fix.
+
+Inside:
+- SKILL.md anatomy that actually routes well
+- Progressive disclosure pattern to cut token burn
+- Invocation flags teams misconfigure
+- 7 copy-paste Claude skills you can deploy this week
+- Real Anthropic 2026 docs-aligned examples
+
+Start with these 5: PR Security Sentinel, Incident Timeline Builder, GTM Message Calibrator, Eval Gatekeeper, Prompt Regression Tracker.
+
+Steal the structure. Customize the constraints. Version it in git.
+
+Comment AI and I will send the full copy-paste skill pack.
+
+#ClaudeCode #AIforBusiness #AIAutomation #PromptEngineering #BusinessSystems

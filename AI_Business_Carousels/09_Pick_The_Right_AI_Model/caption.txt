@@ -1,0 +1,28 @@
+Comment AI to get the full model-routing matrix and the complete list of task-to-model mappings that can help your business spend less on AI while getting better results.
+
+Using one model for everything is like hiring one person to be your strategist, data clerk and designer. The best stacks route work by risk, context size, modality, latency and cost.
+
+What you get in this post (8 slides):
+Slide 1: Pick The Right Model: routing beats defaulting to the most expensive option.
+Slide 2: Deep Reasoning: ambiguous plans, architecture, strategy and legal nuance.
+Slide 3: Daily Driver: writing, analysis, code help and research summaries.
+Slide 4: Fast Cheap Scale: classification, extraction, tagging and first-pass QA at volume.
+Slide 5: Multimodal Work: image, PDF, video and sketch-heavy tasks.
+Slide 6: Agent Work: planning, tool use, state inspection and error recovery.
+Slide 7: Routing Rule: expensive failure means stronger model plus evals; huge volume means smaller model plus checks.
+Slide 8: Comment AI: get the bonus PDF.
+
+Bonus PDF (sent when you comment AI):
+Pick the Right AI Model: includes match-model-to-job framework, agentic work as its own category, routing heuristics, playbook, mistakes, glossary and the pro move: use a cheap model as a router that classifies tasks and dispatches to the right tier so you only pay frontier prices when the work actually needs it.
+
+Interim takeaway:
+List your recurring AI tasks, tag by risk and volume, assign a tier, measure accuracy/latency/cost per workflow and re-route when the numbers say so.
+
+Why this helps your business grow:
+Lower AI spend at scale, better quality on high-stakes tasks and a measured stack instead of hype-driven model choices.
+
+Trending right now on AI model routing:
+Multi-model routing is the cost-optimization story every CFO is asking about in 2026.
+Cheap models as routers dispatching to frontier models only when needed is spreading from infra teams to marketing ops.
+Opus vs Sonnet vs Haiku (and GPT vs Gemini tiers) conversations are everywhere: but measured routing beats brand loyalty.
+Agentic workloads are forcing a separate category: tool reliability matters as much as raw reasoning scores.

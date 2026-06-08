@@ -1,0 +1,7 @@
+Router plans. Worker executes. Reviewer gates. Multi-agent pattern that stops drift.
+
+Same architecture in Claude subagents, OpenAI handoffs, and Cursor parallel runs.
+
+Comment WORKFLOW for copy-paste roles + weekly report example PDF.
+
+#AIWorkflow #Claude #Agents #PIYUSHGLITCH

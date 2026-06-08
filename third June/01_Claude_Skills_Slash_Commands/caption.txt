@@ -1,0 +1,11 @@
+Comment SKILLS and I'll send the full PDF with every slash command, connector map, and SKILL.md template.
+
+Anthropic shipped 31 pre-built Claude Skills for SMBs - 382K downloads day one. Most people never run them because they don't know which connector each one needs.
+
+This carousel is the cheat sheet: /business-pulse, /invoice-chase, /lead-triage, /monday-brief, /contract-review - plus the SKILL.md format from github.com/anthropics/skills and the Composio awesome-claude-skills repo.
+
+Swipe for: the exact YAML frontmatter, hidden CLI commands (/compact, /btw, /init), and how mcp-to-skills turns your MCP servers into loadable skills.
+
+Save this before your next Claude renewal. Follow @piyush.glitch for operator-level Claude systems.
+
+#ClaudeAI #ClaudeSkills #AIforBusiness #Automation #SmallBusiness

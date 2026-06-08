@@ -1,0 +1,37 @@
+50 Cursor tricks. You're using 8.
+
+Comment AI to get the full "50 Cursor Secrets For Builders" PDF with non-generic examples, .mdc rules, hooks.json templates, and a 30-day rollout playbook.
+
+Most teams still use Cursor like autocomplete.
+Builder teams in 2026 run a full system:
+- Composer 2.5 as default execution lane
+- Agents Window for parallel local + cloud sessions
+- Plan Mode before multi-file coding
+- scoped `.cursor/rules/*.mdc` for consistency
+- hooks for deterministic safety and auto-fix loops
+- skills for repeatable workflows
+- `/worktree` for safe parallel implementation
+- cloud agents for long-running refactors
+
+Carousel flow (10 slides):
+1) Hook + stack overview
+2) Composer 2.5 operator logic
+3) Agents Window control layer
+4) Plan Mode anti-rework pattern
+5) Rules architecture with .mdc
+6) Hooks and guardrails
+7) Skill packs for teams
+8) /worktree merge-safe parallelism
+9) Cloud handoff pattern
+10) Comment AI CTA
+
+Bonus PDF: `50-cursor-secrets-for-builders.pdf` (10+ pages)
+- Full 50-secret breakdown
+- Copy-paste `.cursor/rules` snippet
+- hooks.json + hook script examples
+- SKILL.md template
+- 30-day implementation roadmap
+
+Comment AI and I'll send the full pack.
+
+#Cursor #CursorAI #Composer2 #AIAgents #BuildInPublic

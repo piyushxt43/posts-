@@ -1,0 +1,7 @@
+Comment "AI" for the Omni MCP setup PDF - Gemini Veo, 1M context, Deep Research inside Claude Code.
+
+Google Omni is not a replacement for Claude - it is a tool layer. omni-ai-mcp lets Claude orchestrate Gemini's video, TTS, RAG, and 1M token context.
+
+Swipe for pip install, MCP config, and slash commands.
+
+#Gemini #ClaudeCode #MCP #GoogleAI #PIYUSHGLITCH
